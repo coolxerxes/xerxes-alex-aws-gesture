@@ -1,0 +1,148 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "senior project",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "SignOneIntent",
+          "slots": [],
+          "samples": [
+            "turn on light",
+            "open the light",
+            "open light",
+            "turn on the light",
+            "turn the light",
+            "please turn on the light",
+            "sign one",
+            "first sign"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "SignTwoIntent",
+          "slots": [],
+          "samples": [
+            "turn off light",
+            "close the light",
+            "close light",
+            "turn off the light",
+            "turn the light off",
+            "please turn off the light",
+            "sign two",
+            "second sign"
+          ]
+        },
+        {
+          "name": "SignThreeIntent",
+          "slots": [],
+          "samples": [
+            "change light color to red",
+            "change the color of the light to red",
+            "set the light color to red",
+            "please change the light color to red",
+            "sign three",
+            "third sign"
+          ]
+        },
+        {
+          "name": "SignFourIntent",
+          "slots": [],
+          "samples": [
+            "turn on ac",
+            "open the ac",
+            "open ac",
+            "turn on the ac",
+            "turn the ac",
+            "please turn on the ac",
+            "sign four",
+            "fourth sign"
+          ]
+        },
+        {
+          "name": "FifthSignIntent",
+          "slots": [],
+          "samples": [
+            "turn off ac",
+            "close the ac",
+            "close ac",
+            "turn off the ac",
+            "turn the ac off",
+            "please turn off the ac",
+            "sign five ",
+            "fifth sign"
+          ]
+        },
+        {
+          "name": "SignSixIntent",
+          "slots": [],
+          "samples": [
+            "change ac tempe to seventeen",
+            "change ac temperature to seventeen",
+            "change the ac temp to seventeen",
+            "change the ac temperature to seventeen",
+            "set the ac temp to siventeen",
+            "set the ac temperature to siventeen",
+            "please change the ac temp to siventeen",
+            "please change the ac temperature to seventeen",
+            "sign six",
+            "sixth sign"
+          ]
+        },
+        {
+          "name": "SignSevenIntent",
+          "slots": [],
+          "samples": [
+            "open all",
+            "all on",
+            "turn on all",
+            "turn all on",
+            "home",
+            "i\u0027m back",
+            "i am back",
+            "i\u0027m home",
+            "i am home",
+            "sign seven",
+            "seventh sign"
+          ]
+        },
+        {
+          "name": "SignEightIntent",
+          "slots": [],
+          "samples": [
+            "close all",
+            "all off",
+            "turn off all",
+            "turn all off",
+            "i\u0027m going",
+            "i am going",
+            "i\u0027m leaving",
+            "i am leaving",
+            "sign eight",
+            "eighth sign"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "14"
+}

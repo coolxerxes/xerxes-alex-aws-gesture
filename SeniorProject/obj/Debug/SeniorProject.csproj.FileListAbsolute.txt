@@ -1,0 +1,75 @@
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe.config
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\SeniorProject.pdb
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.AssemblyReference.cache
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Properties.Resources.resources
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.GenerateResource.cache
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.CoreCompileInputs.cache
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.exe
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.pdb
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Form1.resources
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\GSdkNet.BLE.Winapi.dll
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\GSdkNet.dll
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.CopyComplete
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe.manifest
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\bin\Debug\SeniorProject.application
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.exe.manifest
+C:\Users\reemz\Desktop\SeniorProject\SeniorProject\obj\Debug\SeniorProject.application
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\SeniorProject.exe.config
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\SeniorProject.exe.manifest
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\SeniorProject.application
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\SeniorProject.exe
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\SeniorProject.pdb
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\GSdkNet.BLE.Winapi.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\GSdkNet.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.csproj.AssemblyReference.cache
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.Form1.resources
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.Properties.Resources.resources
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.csproj.GenerateResource.cache
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.csproj.CoreCompileInputs.cache
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.exe.manifest
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.application
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.csproj.CopyComplete
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.exe
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\obj\Debug\SeniorProject.pdb
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\LdaNative.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\CpuMathNative.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Buffers.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.CodeDom.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Memory.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Buffers.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Memory.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Alexa.NET.dll
+C:\Users\reemz\Desktop\SeniorProject - Copy\SeniorProject\bin\Debug\Alexa.NET.SkillMessaging.dll
